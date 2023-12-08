@@ -16,5 +16,3 @@ cv2.imshow("resultado", img)
 cv2.waitKey(0)
 
 cv2.imwrite("Solar_system.jpg", img)
-
-cv2.waitKey(0)
